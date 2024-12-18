@@ -49,4 +49,3 @@ const serverAuth = async (req: NextApiRequest) => {
 }
 
 export default serverAuth;
-export default serverAuth;
