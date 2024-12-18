@@ -8,7 +8,7 @@ generator client {
 
 datasource db {
   provider = "mongodb"
-  url      = "mongodb+srv://yashsinghipuedc:sA88FnufpjeSbdrb@cluster09.zytra.mongodb.net/"
+  url      = "mongodb+srv://sid:sid2004@cluster0.6dympwg.mongodb.net/netflix?retryWrites=true&w=majority"
 }
 
 model User {
